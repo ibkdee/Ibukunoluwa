@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibkdee
-- 👀 I’m a Data Analyst, Data Scientist and an NLP Enthusiast
+- 👀 I’m a Data Analyst, Data Scientist and a NLP Enthusiast
 - 🌱 I work with Python, R, SPSS, Power BI and Microsoft Excel
 - 💞️ I build chatbots as well as Streamlit web apps
 - ✨ I am willing to collaborate with great minds
